@@ -34,7 +34,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/virtual-cinema.git
+git clone https://github.com/Janarthanan1304/MediaStreaming.git
 cd virtual-cinema
 Configuration:
 
