@@ -67,7 +67,7 @@ Configure Environment Variables: Set environment variables for your production s
 
 Secure the Platform: Ensure proper security measures are in place to protect your users' data and content.
 
-COONTRIBUTING
+CONTRIBUTING
 We welcome contributions from the community! If you'd like to contribute to the Virtual Cinema Platform, please follow our Contribution Guidelines.
 
 
