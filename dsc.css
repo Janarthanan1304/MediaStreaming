@@ -1,0 +1,26 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(45deg, black 33%, yellow 33%, yellow 66%, black 66%);
+    color: black;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+}
+.section-container {
+    background-color: #f2f2f200;
+    text-align: center;
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+@media (max-width: 768px) {
+    .section-container {
+        margin: 1rem;
+    }
+}
