@@ -1,43 +1,35 @@
-Startup Revenue Predictor
+Front- End for Cloud Media Streaming
 
 Overview
 
-This project is a web-based application that predicts the revenue of a startup based on various factors such as R&D spend, administration costs, marketing spend, and location.
+This project provides the front-end interface for a cloud media streaming service. It allows users to browse, search, and play media content from the cloud.
 
 Features
 
-- User-friendly interface for inputting data
-- Predicts revenue based on machine learning algorithms
-- Displays predicted revenue in a clear and concise manner
+- User-friendly interface for browsing and searching media content
+- Support for playing video and audio content
+- Responsive design for optimal viewing on various devices
 
 Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
-- Python (for machine learning model)
-- Flask (for backend API)
 
 Requirements
 
-- Python 3.8+
-- Flask 2.0+
-- scikit-learn 1.0+
-- pandas 1.3+
-- numpy 1.20+
+- Modern web browser (Google Chrome, Mozilla Firefox, etc.)
 
 Installation
 
-1. Clone the repository: git clone https://github.com/your-username/startup-revenue-predictor.git
-2. Install the required dependencies: pip install -r requirements.txt
-3. Run the Flask application: python app.py
-4. Open a web browser and navigate to http://localhost:5000
+1. Clone the repository: git clone https://github.com/Janarthanan1304/MediaStreaming.git
+2. Open the html file in a modern web browser
 
 Usage
 
-1. Fill in the input fields with the required data
-2. Click the "Predict Revenue" button
-3. View the predicted revenue in the output section
+1. Browse or search for media content using the navigation menu or search bar
+2. Click on a media item to play it
+3. Use the media player controls to pause, play, or seek through the content
 
 Contributing
 
